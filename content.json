@@ -1,0 +1,347 @@
+{
+  "siteTitle": "Élite FA",
+  "siteSubtitle": "Reglement FiveM Élite FA",
+  "discordUrl": "https://discord.gg/fFXVPJaC",
+  "footerText": "Wiki officiel Élite fa",
+  "pages": [
+    {
+      "id": "accueil",
+      "title": "Accueil",
+      "icon": "home",
+      "summary": "Retrouvez ici l'ensemble des reglements officiels du serveur Élite fa. Pour vivre une experience RP complete, fluide et conforme aux attentes de la communaute, il est essentiel de prendre connaissance des regles.",
+      "cards": true,
+      "sections": [
+        {
+          "title": "Avant de jouer",
+          "icon": "clipboard",
+          "rules": [
+            "Chaque joueur doit connaitre les bases HRP, globales, legales et illegales avant de se lancer en scene.",
+            "Le staff peut intervenir si une scene bloque, si une regle est contournee ou si un comportement nuit au serveur.",
+            "Un enregistrement video est fortement conseille pour les scenes importantes, les litiges et les demandes de remboursement."
+          ],
+          "note": "Ce wiki sert de base officielle. Si une situation n'est pas ecrite, le bon sens RP et la decision staff priment."
+        }
+      ]
+    },
+    {
+      "id": "reglement-hrp",
+      "title": "Reglement HRP",
+      "icon": "shield-check",
+      "summary": "Les regles HRP encadrent le comportement des joueurs en dehors du personnage: Discord, vocal, tickets, respect et relation avec le staff.",
+      "sections": [
+        {
+          "title": "Respect et communaute",
+          "icon": "users",
+          "rules": [
+            "Le respect est obligatoire envers les joueurs, les nouveaux, les staffs, les partenaires et les autres communautes.",
+            "Les insultes HRP, menaces, harcelement, discrimination, provocation et humiliation publique sont interdits.",
+            "Le spam, la publicite non autorisee, les liens dangereux et les raids Discord entrainent une sanction immediate.",
+            "Les conflits se reglent en ticket, jamais en salon public ou en vocal pendant une scene."
+          ]
+        },
+        {
+          "title": "Discord et vocal",
+          "icon": "mic",
+          "rules": [
+            "Un micro correct est recommande pour les scenes importantes; les bruits parasites peuvent justifier une exclusion de scene.",
+            "Soundboard, musique forte, cris abusifs et perturbation volontaire du vocal sont interdits.",
+            "Le push-to-talk peut etre impose par le staff si ton micro gene les autres joueurs.",
+            "Les salons Discord doivent etre utilises pour leur but: support, annonces, reglement, tickets ou discussion."
+          ]
+        },
+        {
+          "title": "Staff, tickets et preuves",
+          "icon": "shield",
+          "rules": [
+            "Les decisions staff doivent etre respectees, meme si une contestation peut etre faite calmement en ticket.",
+            "Un report doit contenir des faits clairs, l'heure approximative, les joueurs concernes et une preuve si possible.",
+            "Mentir au staff, cacher une preuve ou monter un dossier volontairement trompeur aggrave la sanction.",
+            "Aucune discussion HRP ne doit casser une scene; le ticket se fait apres la scene sauf urgence staff."
+          ],
+          "note": "Un rec court et propre vaut mieux qu'une dispute longue. Gardez les preuves utiles."
+        },
+        {
+          "title": "Compte, bugs et triche",
+          "icon": "ban",
+          "rules": [
+            "Cheat, macro abusive, exploit bug, duplication, mod menu et avantage externe sont interdits.",
+            "Un bug doit etre signale au staff; l'utiliser volontairement peut mener a un bannissement.",
+            "Le partage de compte, la vente d'argent/items et les echanges contre argent reel sont interdits.",
+            "Toute tentative de contourner une sanction avec un autre compte sera sanctionnee plus lourdement."
+          ]
+        }
+      ],
+      "cards": false
+    },
+    {
+      "id": "reglement-global",
+      "title": "Reglement Global",
+      "icon": "layout",
+      "summary": "Le reglement global fixe les bases communes a toutes les scenes RP, peu importe ton camp, ton metier ou ton groupe.",
+      "sections": [
+        {
+          "title": "Coherence RP",
+          "icon": "mask",
+          "rules": [
+            "Reste coherent avec ton personnage, son histoire, ses limites, sa peur et ses blessures.",
+            "Le FearRP est obligatoire: tu dois reagir logiquement face au danger, aux armes et a la superiorite numerique.",
+            "Le PainRP est obligatoire: une blessure, un accident ou un coma doit etre joue correctement.",
+            "Le PowerGaming, ForceRP, MetaGaming, FreeKill/RDM, VDM et NoFear sont interdits."
+          ]
+        },
+        {
+          "title": "Scenes, mort et retour",
+          "icon": "heart-pulse",
+          "rules": [
+            "Une scene commence quand une interaction RP claire est engagee et se termine quand toutes les parties sont sorties proprement.",
+            "Le retour sur zone apres coma, mort ou fuite de scene est interdit sans raison RP valide.",
+            "Les informations obtenues avant coma ne peuvent pas etre utilisees si la scene implique un oubli logique.",
+            "Aucune vengeance immediate ne doit etre jouee apres une mort ou une scene perdue."
+          ]
+        },
+        {
+          "title": "Safe zones et lieux sensibles",
+          "icon": "landmark",
+          "rules": [
+            "Les hopitaux, commissariats, concessions, zones d'accueil et lieux staff ne doivent pas etre utilises pour forcer une scene.",
+            "Se refugier dans une zone safe pour echapper a une poursuite ou a une scene en cours est interdit.",
+            "Les scenes peuvent continuer autour d'un lieu sensible seulement si elles restent propres et logiques.",
+            "Les joueurs AFK, en chargement ou en support staff ne doivent pas etre pris pour cible."
+          ]
+        },
+        {
+          "title": "Vehicules et conduite",
+          "icon": "car",
+          "rules": [
+            "La conduite doit rester RP: evite les sauts absurdes, le off-road abusif et les collisions volontaires sans raison.",
+            "Le PIT doit etre proportionne et coherent avec la vitesse, le vehicule et la scene.",
+            "Un vehicule lourd ne doit pas etre utilise comme arme gratuite contre des joueurs.",
+            "Apres un accident grave, joue les blessures et laisse une chance a la scene de respirer."
+          ]
+        },
+        {
+          "title": "Economie et possessions",
+          "icon": "coins",
+          "rules": [
+            "Les arnaques doivent avoir une base RP claire et ne pas detruire l'experience d'un joueur sans raison.",
+            "Les transferts massifs d'argent ou d'items peuvent etre verifies par le staff.",
+            "Les pertes dues a une erreur personnelle ne sont pas automatiquement remboursees.",
+            "Le staff peut annuler une transaction si elle vient d'un bug, d'une triche ou d'un abus manifeste."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reglement-legal",
+      "title": "Reglement RP Legal",
+      "icon": "badge",
+      "summary": "Le RP legal concerne les forces de l'ordre, EMS, entreprises, commerces et toutes les activites jouees dans un cadre officiel.",
+      "sections": [
+        {
+          "title": "Attitude en service",
+          "icon": "user-check",
+          "rules": [
+            "Un metier legal doit etre joue avec serieux: tenue, vehicule, radio et comportement adaptes.",
+            "La hierarchie doit etre respectee en RP; les decisions internes se reglent par voie RP ou ticket si besoin.",
+            "Abuser d'un job legal pour donner des infos, proteger ses amis ou gagner un avantage illegal est interdit.",
+            "Les agents et employes restent soumis au FearRP et au PainRP comme tous les joueurs."
+          ]
+        },
+        {
+          "title": "Police et interventions",
+          "icon": "siren",
+          "rules": [
+            "Les controles doivent avoir un motif RP: conduite dangereuse, suspicion, appel, enquete ou flagrant delit.",
+            "La force doit etre progressive: dialogue, sommations, taser/menottes, puis arme selon le danger.",
+            "Les courses-poursuites doivent rester propres; le PIT abusif ou instantane est interdit.",
+            "Les perquisitions, descentes et saisies importantes doivent etre justifiees et rec si possible."
+          ]
+        },
+        {
+          "title": "EMS et hopital",
+          "icon": "cross",
+          "rules": [
+            "Les EMS sont neutres et ne doivent pas etre pris pour cible sans raison RP tres forte.",
+            "Un joueur pris en charge par EMS doit jouer ses blessures et respecter les soins donnes.",
+            "Les sorties d'hopital ne remettent pas une scene a zero si une suite RP logique existe.",
+            "Forcer un EMS a faire une action impossible ou non RP est interdit."
+          ]
+        },
+        {
+          "title": "Entreprises et commerces",
+          "icon": "building",
+          "rules": [
+            "Une entreprise doit maintenir une activite RP visible et coherente avec son dossier.",
+            "Les patrons gerent leurs employes, mais les abus HRP ou discriminations sont sanctionnables.",
+            "Les prix, stocks et services doivent rester raisonnables et compatibles avec l'economie du serveur.",
+            "Une entreprise peut avoir des problemes RP, mais pas devenir une couverture illogique sans validation staff."
+          ]
+        },
+        {
+          "title": "Corruption",
+          "icon": "scale",
+          "rules": [
+            "La corruption lourde doit etre rare, jouee avec preuve et validation staff si elle touche un service important.",
+            "Donner des informations police/EMS/entreprise a un groupe illegal pour aider ses amis est interdit sans vrai dossier RP.",
+            "Un personnage legal corrompu accepte les consequences RP: enquete, licenciement, prison ou mort RP selon les cas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reglement-illegal",
+      "title": "Reglement RP Illegal",
+      "icon": "target",
+      "summary": "Le RP illegal encadre les gangs, organisations, independants, braquages, points chauds, sommations, loot et guerres.",
+      "sections": [
+        {
+          "title": "Regles d'or de l'illegal",
+          "icon": "crown",
+          "rules": [
+            "Toute personne en activite illegale doit porter un masque ou un signe coherent avec son action.",
+            "Une action illegale doit avoir un objectif RP clair: argent, pression, information, vengeance, territoire ou negociation.",
+            "Le FearRP est obligatoire dans les quartiers, villas, points de drogue, convois et scenes armees.",
+            "Sortir une arme par accident ne suffit pas a lancer une fusillade; la scene doit etre lisible."
+          ],
+          "note": "L'illegal doit creer du RP, pas juste chercher le gunfight."
+        },
+        {
+          "title": "Braquages et prises d'otage",
+          "icon": "briefcase",
+          "rules": [
+            "Braquer une personne sans raison RP est interdit.",
+            "Une prise d'otage doit servir un objectif: fuite, negociation, recuperation, pression ou scene preparee.",
+            "Mentir sur son groupe ou son rang peut etre joue, mais nier une evidence RP solide peut etre sanctionne.",
+            "Le montant d'une rancon doit rester raisonnable et adapte a la scene."
+          ]
+        },
+        {
+          "title": "Sommations et tirs",
+          "icon": "crosshair",
+          "rules": [
+            "Avant un affrontement de groupe, une sommation claire doit etre faite quand la scene le permet.",
+            "Une sommation peut etre verbale, visuelle ou armee, mais elle doit etre comprehensible par l'autre camp.",
+            "Tirer sans scene, sans menace ou sans raison RP est interdit.",
+            "Pendant une poursuite ou un conflit, les tirs doivent rester proportionnes et ne pas viser a casser la scene gratuitement."
+          ]
+        },
+        {
+          "title": "Loot et morts",
+          "icon": "backpack",
+          "rules": [
+            "Une personne au sol ne doit pas etre loot sans condition RP valable.",
+            "Le loot autorise concerne surtout les armes visibles, objets lies a la scene, argent illegal ou preuves RP.",
+            "La nourriture, l'eau, les soins et items de confort ne doivent pas etre voles pour vider un joueur.",
+            "Le loot massif d'un coffre de groupe par un membre interne peut ne pas etre rembourse: gerez vos permissions."
+          ]
+        },
+        {
+          "title": "Scenes, renforts et back",
+          "icon": "swords",
+          "rules": [
+            "Se rajouter a une scene deja engagee sans appel RP clair est interdit.",
+            "Le back sur une fusillade, le re-drop abusif et le retour quartier pour fuir une scene sont interdits.",
+            "Apres avoir donne la mort, rester sur zone pour chercher un second fight est interdit.",
+            "Les litiges se reglent apres la scene; pas de debat HRP au milieu d'une action."
+          ]
+        },
+        {
+          "title": "Groupes, convois et guerre",
+          "icon": "link",
+          "rules": [
+            "Un groupe illegal doit respecter son lore: couleurs, style, territoire, hierarchie et facon d'agir.",
+            "Les convois doivent rester raisonnables: pas de parade armee permanente sans objectif RP.",
+            "Une guerre doit avoir une raison RP, une duree limitee et une validation staff si elle impacte le serveur.",
+            "Quitter un groupe illegal important peut avoir des consequences RP lourdes selon le lore du groupe."
+          ]
+        },
+        {
+          "title": "Interaction avec le legal",
+          "icon": "radio",
+          "rules": [
+            "Face aux forces de l'ordre, le FearRP doit etre joue, surtout en inferiorite ou pendant un controle arme.",
+            "Prendre un agent en otage doit rester exceptionnel et justifie par une vraie scene.",
+            "Plus un groupe attaque les forces de l'ordre, plus il accepte les repercussions RP: enquete, descentes, saisies.",
+            "Les masques et gilets visibles en pleine ville peuvent provoquer des controles RP."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "creer-un-groupe",
+      "title": "Creer un Groupe",
+      "icon": "network",
+      "summary": "Les groupes legaux ou illegaux doivent avoir un projet lisible, un lore, une hierarchie et une activite RP suivie.",
+      "sections": [
+        {
+          "title": "Dossier de creation",
+          "icon": "file-text",
+          "rules": [
+            "Le dossier doit presenter le nom, le style, l'histoire, les objectifs et les membres fondateurs du groupe.",
+            "Un groupe illegal doit expliquer son territoire, ses activites, ses couleurs et ses limites RP.",
+            "Un projet legal doit presenter ses services, son economie, ses horaires et son utilite pour les joueurs.",
+            "Le staff peut demander une periode de test avant validation definitive."
+          ]
+        },
+        {
+          "title": "Gestion et responsabilite",
+          "icon": "crown",
+          "rules": [
+            "Le leader est responsable de l'image et du comportement de son groupe.",
+            "Les recrutements doivent rester coherents et ne pas servir uniquement a gonfler les effectifs.",
+            "Un groupe inactif, toxique ou base seulement sur le fight peut etre averti, restructure ou dissous.",
+            "Les changements majeurs de lore, chef, territoire ou activite doivent etre signales au staff."
+          ]
+        },
+        {
+          "title": "Dissolution et wipe",
+          "icon": "refresh",
+          "rules": [
+            "Une dissolution peut etre RP, staff ou volontaire selon la situation du groupe.",
+            "Un wipe projet peut etre impose si le groupe change completement d'identite.",
+            "Les coffres, vehicules, armes et fonds peuvent etre verifies ou retires selon le contexte."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guide-elite-fa",
+      "title": "Guide Élite FA",
+      "icon": "compass",
+      "summary": "Un guide rapide pour bien commencer sur le serveur, eviter les erreurs classiques et comprendre les attentes RP.",
+      "sections": [
+        {
+          "title": "Premiers pas",
+          "icon": "rocket",
+          "rules": [
+            "Lis les pages HRP et globales avant de te lancer dans une grosse scene.",
+            "Prepare un personnage simple: age, caractere, objectif, forces, faiblesses et limites.",
+            "Pose tes questions en ticket ou dans les salons d'aide avant de faire une action risquee.",
+            "Commence par des scenes simples pour comprendre le rythme du serveur."
+          ]
+        },
+        {
+          "title": "Lexique utile",
+          "icon": "book",
+          "rules": [
+            "FearRP: jouer la peur face au danger.",
+            "PainRP: jouer la douleur et les consequences physiques.",
+            "MetaGaming: utiliser une information obtenue hors RP.",
+            "PowerGaming: faire une action impossible ou forcer une consequence.",
+            "ForceRP: imposer une scene ou une action a quelqu'un sans lui laisser de choix RP."
+          ]
+        },
+        {
+          "title": "Bon reflexe",
+          "icon": "camera",
+          "rules": [
+            "Rec les scenes sensibles: guerre, perquisition, mort RP, gros braquage, litige ou bug.",
+            "Reste calme meme quand tu penses avoir raison.",
+            "Fais avancer la scene avant de penser a gagner.",
+            "Si tu hesites entre deux actions, choisis celle qui cree le meilleur RP pour tout le monde."
+          ]
+        }
+      ]
+    }
+  ]
+}
