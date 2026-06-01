@@ -326,7 +326,7 @@ a {
 
 .cover {
   margin-top: 34px;
-  aspect-ratio: 16 / 4.2;
+  aspect-ratio: 3 / 1;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   overflow: hidden;
@@ -772,7 +772,7 @@ a {
   }
 
   .cover {
-    aspect-ratio: 16 / 7;
+    aspect-ratio: 3 / 1;
     margin-top: 20px;
   }
 
@@ -810,17 +810,6 @@ a {
   .top-search {
     width: auto;
     max-width: none;
-  }
-
-  .cover {
-    aspect-ratio: 16 / 6;
-  }
-
-  .cover img {
-    object-fit: contain;
-    background:
-      linear-gradient(90deg, rgba(139, 92, 246, 0.16), transparent 42%),
-      #081a33;
   }
 
   .discord-link {
