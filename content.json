@@ -1,14 +1,14 @@
 {
-  "siteTitle": "Élite FA",
-  "siteSubtitle": "Reglement FiveM Élite FA",
-  "discordUrl": "https://discord.gg/fFXVPJaC",
-  "footerText": "Wiki officiel Élite fa",
+  "siteTitle": "Avena RP",
+  "siteSubtitle": "Reglement FiveM Avena RP",
+  "discordUrl": "https://discord.gg/A8zF8H2eB",
+  "footerText": "Wiki officiel Avena RP",
   "pages": [
     {
       "id": "accueil",
       "title": "Accueil",
       "icon": "home",
-      "summary": "Retrouvez ici l'ensemble des reglements officiels du serveur Élite fa. Pour vivre une experience RP complete, fluide et conforme aux attentes de la communaute, il est essentiel de prendre connaissance des regles.",
+      "summary": "Retrouvez ici l'ensemble des reglements officiels du serveur Avena RP. Pour vivre une experience RP complete, fluide et conforme aux attentes de la communaute, il est essentiel de prendre connaissance des regles.",
       "cards": true,
       "sections": [
         {
@@ -305,8 +305,8 @@
       ]
     },
     {
-      "id": "guide-elite-fa",
-      "title": "Guide Élite FA",
+      "id": "guide-avena-rp",
+      "title": "Guide Avena RP",
       "icon": "compass",
       "summary": "Un guide rapide pour bien commencer sur le serveur, eviter les erreurs classiques et comprendre les attentes RP.",
       "sections": [

@@ -23,6 +23,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -32,6 +33,7 @@ body {
     linear-gradient(120deg, rgba(139, 92, 246, 0.14), transparent 34%),
     linear-gradient(180deg, #06060a 0%, #0b0712 100%);
   color: var(--text);
+  overflow-x: hidden;
 }
 
 a {
@@ -786,6 +788,8 @@ a {
   }
 
   .top-search {
+    flex: 1 1 auto;
+    min-width: 0;
     width: min(460px, 100%);
     margin-left: 0;
   }
@@ -794,6 +798,29 @@ a {
 @media (max-width: 560px) {
   .topbar {
     padding-inline: 14px;
+    gap: 10px;
+    min-width: 0;
+  }
+
+  .topbar-title {
+    flex: 0 0 auto;
+    min-width: 0;
+  }
+
+  .top-search {
+    width: auto;
+    max-width: none;
+  }
+
+  .cover {
+    aspect-ratio: 16 / 6;
+  }
+
+  .cover img {
+    object-fit: contain;
+    background:
+      linear-gradient(90deg, rgba(139, 92, 246, 0.16), transparent 42%),
+      #081a33;
   }
 
   .discord-link {

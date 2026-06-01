@@ -1,6 +1,6 @@
-# Elite FA Wiki
+# Avena RP Wiki
 
-Wiki public du serveur Elite FA.
+Wiki public du serveur Avena RP.
 
 Fichiers publies:
 
